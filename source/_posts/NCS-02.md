@@ -16,7 +16,7 @@ mathjax: true
 
 - maximal integral submanifold
 - flow: vector flow is determined by a vector field
-- locally finitely generated
+- locally finitely generatedr
   
 ### Theorem
 
