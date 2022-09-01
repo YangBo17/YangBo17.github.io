@@ -80,7 +80,7 @@ favicon: /img/star.jpg
 
 # Avatar (頭像)
 avatar:
-  img: /img/prince.jpg
+  img: /source/img/prince.jpg
   effect: false
 
 # Disable all banner image
