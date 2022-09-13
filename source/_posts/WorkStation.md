@@ -13,11 +13,17 @@ cover: manjaro.png
 
 ### Manjaro系统安装
 
-该章节中的链接中，包括了系统镜像的制作以及系统安装后的一些简单配置，如：换源，输入法，字体，终端，科学上网，wps,微信等
+该章节中的链接中，包括了系统镜像的制作以及系统安装后的一些简单配置，如：换源，输入法，字体，zsh终端，科学上网，wps,微信等
 
 - [https://segmentfault.com/a/1190000022575018](https://segmentfault.com/a/1190000022575018)
 - [https://zhuanlan.zhihu.com/p/114296129](https://zhuanlan.zhihu.com/p/114296129)
 
+### zsh插件
+- git
+- vscode
+- zsh-autosuggestions
+- zsh-syntax-highlighting
+- sudo
 
 ### github+hexo+nginx博客搭建
 
@@ -33,3 +39,9 @@ hexo是博客搭建的框架，可以挂载到github上，也可挂载到自己�
 #### butterfly主题
 - [https://github.com/jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly)
 
+### Manjaro安装ROS noetic
+- [Manjaro安装ROS noetic](https://codeleading.com/article/31965251272/)
+
+
+### Manjaro在Docker中安装ROS noetic
+- [Manjaro在Docker中安装ROS noetic](https://blog.csdn.net/weixin_39977764/article/details/125576452)
